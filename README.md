@@ -1,5 +1,5 @@
 # processbook
-Sketch file w/ plugin for HCDE capstone 2017
+[git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin)
 
 
 ##About Us
