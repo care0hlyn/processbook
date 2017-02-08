@@ -6,3 +6,6 @@ We are a team of graduate students at the University of Washington in the Human 
 
 ##Dependencies
 [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin)
+
+##Font
+Proxima Nova Light
